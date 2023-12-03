@@ -1,12 +1,5 @@
 /*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
-/*!
- * GSAP 3.11.5
+ * GSAP 3.12.2
  * https://greensock.com
  *
  * @license Copyright 2008-2023, GreenSock. All rights reserved.
@@ -14,28 +7,6 @@
  * Club GreenSock members, the agreement issued with that membership.
  * @author: Jack Doyle, jack@greensock.com
 */
-
-/*!
- * Observer 3.11.5
- * https://greensock.com
- *
- * @license Copyright 2008-2023, GreenSock. All rights reserved.
- * Subject to the terms at https://greensock.com/standard-license or for
- * Club GreenSock members, the agreement issued with that membership.
- * @author: Jack Doyle, jack@greensock.com
-*/
-
-/*!
- * ScrollTrigger 3.11.5
- * https://greensock.com
- *
- * @license Copyright 2008-2023, GreenSock. All rights reserved.
- * Subject to the terms at https://greensock.com/standard-license or for
- * Club GreenSock members, the agreement issued with that membership.
- * @author: Jack Doyle, jack@greensock.com
-*/
-
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
  * @license React
@@ -108,7 +79,7 @@
  */
 
 /**
- * @remix-run/router v1.5.0
+ * @remix-run/router v1.13.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -119,7 +90,7 @@
  */
 
 /**
- * React Router v6.10.0
+ * React Router v6.20.0
  *
  * Copyright (c) Remix Software Inc.
  *
